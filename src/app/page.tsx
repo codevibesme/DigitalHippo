@@ -17,7 +17,7 @@ const perks = [
       "Every asset on our platform is verified by our team to ensure our hightest quality standards. Not happy? We offer a 30-day refund guarantee.",
   },
   {
-    name: "Guaranteed Quality",
+    name: "For the Planet",
     Icon: Leaf,
     description:
       "We've plege 1% sales to the preservation and restoration of the natural environment.",
